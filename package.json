@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "netlify-lambda": "^1.6.3"
+    "express": "^4.17.1",
+    "netlify-lambda": "^1.6.3",
+    "socket.io": "^2.3.0"
   }
 }
